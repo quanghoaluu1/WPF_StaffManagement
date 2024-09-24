@@ -1,0 +1,15 @@
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\bin\Debug\net6.0\Candidate_DAO.deps.json
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\bin\Debug\net6.0\Candidate_DAO.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\bin\Debug\net6.0\Candidate_DAO.pdb
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\bin\Debug\net6.0\Candidate_BusinessObjects.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\bin\Debug\net6.0\Candidate_BusinessObjects.pdb
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\obj\Debug\net6.0\Candidate_DAO.csproj.AssemblyReference.cache
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\obj\Debug\net6.0\Candidate_DAO.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\obj\Debug\net6.0\Candidate_DAO.AssemblyInfoInputs.cache
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\obj\Debug\net6.0\Candidate_DAO.AssemblyInfo.cs
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\obj\Debug\net6.0\Candidate_DAO.csproj.CoreCompileInputs.cache
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\obj\Debug\net6.0\Candidat.A763094E.Up2Date
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\obj\Debug\net6.0\Candidate_DAO.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\obj\Debug\net6.0\refint\Candidate_DAO.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\obj\Debug\net6.0\Candidate_DAO.pdb
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_DAO\obj\Debug\net6.0\ref\Candidate_DAO.dll
