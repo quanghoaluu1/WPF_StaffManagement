@@ -9,9 +9,9 @@ namespace Candidate_DAO
 {
     public class JobPostingDAO
     {
-        private CandidateManagementContext dBContext;
+    //    private CandidateManagementContext dBContext;
         private static JobPostingDAO instance;
-
+        private GenericDAO<JobPosting> jobPostingDAO;
         public static JobPostingDAO Instance 
         { 
             get
@@ -26,18 +26,18 @@ namespace Candidate_DAO
 
         public JobPostingDAO()
         {
-            dBContext = new CandidateManagementContext();
+            jobPostingDAO = new GenericDAO<JobPosting>(new CandidateManagementContext());
         }
 
         public List<JobPosting> GetJobPostingsList()
         {
-            return dBContext.JobPostings.ToList();
+            return jobPostingDAO.GetAll();
 
         }
 
         public JobPosting getJobPostingById(String id)
         {
-            return dBContext.JobPostings.SingleOrDefault(m => m.PostingId.Equals(id));
+            return jobPostingDAO.GetById(id);
         }
 
     }

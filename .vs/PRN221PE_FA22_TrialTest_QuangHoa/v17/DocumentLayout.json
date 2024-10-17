@@ -3,20 +3,72 @@
   "WorkspaceRootPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC44F2DB-42F1-405B-9074-0378A3C5076F}|Candidate_Service\\Candidate_Service.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_service\\icandidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC44F2DB-42F1-405B-9074-0378A3C5076F}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\icandidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidatemanagement_wpf_quanghoa\\candidate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|solutionrelative:candidatemanagement_wpf_quanghoa\\candidate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC44F2DB-42F1-405B-9074-0378A3C5076F}|Candidate_Service\\Candidate_Service.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_service\\candidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC44F2DB-42F1-405B-9074-0378A3C5076F}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\candidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidatemanagement_wpf_quanghoa\\candidate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|solutionrelative:candidatemanagement_wpf_quanghoa\\candidate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{EC44F2DB-42F1-405B-9074-0378A3C5076F}|Candidate_Service\\Candidate_Service.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_service\\hraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC44F2DB-42F1-405B-9074-0378A3C5076F}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\hraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_repository\\jobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\jobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_repository\\ijobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\ijobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_repository\\hraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\hraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_repository\\ihraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\ihraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_repository\\icandidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\icandidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_dao\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_dao\\genericdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\genericdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F029372-107E-4627-AB50-47C75F1CF878}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_businessobjects\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F029372-107E-4627-AB50-47C75F1CF878}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_repository\\candidate_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\candidate_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCFA0B1-C683-4388-80CE-5E473DB00214}|DemoCS\\DemoCS.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\democs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCFA0B1-C683-4388-80CE-5E473DB00214}|DemoCS\\DemoCS.csproj|solutionrelative:democs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +78,227 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Candidate.xaml.cs",
-              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\Candidate.xaml.cs",
-              "RelativeDocumentMoniker": "CandidateManagement_WPF_QuangHoa\\Candidate.xaml.cs",
-              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\Candidate.xaml.cs",
-              "RelativeToolTip": "CandidateManagement_WPF_QuangHoa\\Candidate.xaml.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFQAAABaAAAAAAAAAA==",
+              "Title": "CandidateProfileService.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Service\\CandidateProfileService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\CandidateProfileService.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Service\\CandidateProfileService.cs",
+              "RelativeToolTip": "Candidate_Service\\CandidateProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:50:30.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CandidateProfileDAO.cs",
-              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateProfileDAO.cs",
-              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "RelativeToolTip": "Candidate_DAO\\CandidateProfileDAO.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAIA/wFMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T01:02:02.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CandidateProfileRepo.cs",
-              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\CandidateProfileRepo.cs",
-              "RelativeDocumentMoniker": "Candidate_Repository\\CandidateProfileRepo.cs",
-              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\CandidateProfileRepo.cs",
-              "RelativeToolTip": "Candidate_Repository\\CandidateProfileRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T01:14:24.971Z",
+              "WhenOpened": "2024-10-15T01:09:50.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Candidate.xaml",
-              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\Candidate.xaml",
-              "RelativeDocumentMoniker": "CandidateManagement_WPF_QuangHoa\\Candidate.xaml",
-              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\Candidate.xaml",
-              "RelativeToolTip": "CandidateManagement_WPF_QuangHoa\\Candidate.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-23T06:46:15.124Z",
+              "Title": "HRAccountService.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Service\\HRAccountService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\HRAccountService.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Service\\HRAccountService.cs",
+              "RelativeToolTip": "Candidate_Service\\HRAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:09:49.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICandidateProfileService.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Service\\ICandidateProfileService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\ICandidateProfileService.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Service\\ICandidateProfileService.cs",
+              "RelativeToolTip": "Candidate_Service\\ICandidateProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:09:44.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobPostingRepo.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\JobPostingRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\JobPostingRepo.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\JobPostingRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\JobPostingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:09:38.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJobPostingRepo.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\IJobPostingRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\IJobPostingRepo.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\IJobPostingRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\IJobPostingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:09:37.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICandidateProfileRepo.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\ICandidateProfileRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\ICandidateProfileRepo.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\ICandidateProfileRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\ICandidateProfileRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:08:43.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericDAO.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\GenericDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\GenericDAO.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\GenericDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\GenericDAO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:24:23.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CandidateProfileDAO.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateProfileDAO.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\CandidateProfileDAO.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:37:10.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobPostingDAO.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\JobPostingDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\JobPostingDAO.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\JobPostingDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\JobPostingDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:32:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateProfileRepo.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\CandidateProfileRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\CandidateProfileRepo.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\CandidateProfileRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\CandidateProfileRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:33:38.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HRAccountRepo.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\HRAccountRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\HRAccountRepo.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\HRAccountRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\HRAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:33:00.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHRAccountRepo.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\IHRAccountRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\IHRAccountRepo.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\IHRAccountRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\IHRAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:33:48.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HRAccountDAO.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\HRAccountDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\HRAccountDAO.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\HRAccountDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\HRAccountDAO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:31:40.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CandidateManagementContext.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\CandidateManagementContext.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateManagementContext.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\CandidateManagementContext.cs",
+              "RelativeToolTip": "Candidate_DAO\\CandidateManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:16:34.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CandidateProfile.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\CandidateProfile.cs",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\CandidateProfile.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\CandidateProfile.cs",
+              "RelativeToolTip": "Candidate_BusinessObjects\\CandidateProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:56:46.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Candidate_Repository",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj",
+              "RelativeDocumentMoniker": "Candidate_Repository\\Candidate_Repository.csproj",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj",
+              "RelativeToolTip": "Candidate_Repository\\Candidate_Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T00:32:55.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\DemoCS\\Program.cs",
+              "RelativeDocumentMoniker": "DemoCS\\Program.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\DemoCS\\Program.cs",
+              "RelativeToolTip": "DemoCS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:18:39.132Z",
               "EditorCaption": ""
             }
           ]

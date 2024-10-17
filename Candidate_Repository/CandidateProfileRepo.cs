@@ -16,13 +16,13 @@ namespace Candidate_Repository
         public CandidateProfile GetCandidateProfileById(String id) =>
             CandidateProfileDAO.Instance.GetCandidateProfileById(id);
 
-        public bool AddCandidateProfile(CandidateProfile candidateProfile) =>
+        public void AddCandidateProfile(CandidateProfile candidateProfile) =>
             CandidateProfileDAO.Instance.AddCandidateProfile(candidateProfile);
 
-        public bool RemoveCandidateProfile(String id) =>
+        public void RemoveCandidateProfile(String id) =>
             CandidateProfileDAO.Instance.RemoveCandidateProfile(id);
 
-        public bool UpdateCandidateProfile(String id) =>
-            CandidateProfileDAO.Instance.UpdateCandidateProfile(id);
+        public void UpdateCandidateProfile(CandidateProfile candidate) =>
+            CandidateProfileDAO.Instance.UpdateCandidateProfile(candidate);
     }
 }

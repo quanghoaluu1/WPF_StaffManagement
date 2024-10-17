@@ -1,4 +1,5 @@
 ﻿using Candidate_BusinessObjects;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,8 +10,8 @@ namespace Candidate_DAO
 {
     public class HRAccountDAO
     {
-        private CandidateManagementContext dbContext;
         private static HRAccountDAO instance = null;
+        private GenericDAO<Hraccount> hrAccountDAO;
 
         public static HRAccountDAO Instance
         {
@@ -24,19 +25,31 @@ namespace Candidate_DAO
             }
         }
 
+
+
+        //public HRAccountDAO()
+        //{
+        //    dbContext = new CandidateManagementContext();
+        //}
+
         public HRAccountDAO()
         {
-            dbContext = new CandidateManagementContext();
+            hrAccountDAO = new GenericDAO<Hraccount>(new CandidateManagementContext());
         }
+
+        //public Hraccount GetHraccountByEmail(string email)
+        //{
+        //    return dbContext.Hraccounts.SingleOrDefault(m => m.Email.Equals(email));
+        //}
 
         public Hraccount GetHraccountByEmail(string email)
         {
-            return dbContext.Hraccounts.SingleOrDefault(m => m.Email.Equals(email));
+            return hrAccountDAO.GetById(email);
         }
 
         public List<Hraccount> GetHraccountsList()
         {
-            return dbContext.Hraccounts.ToList();
+            return hrAccountDAO.GetAll();
         }
     }
 }

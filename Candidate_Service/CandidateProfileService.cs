@@ -37,9 +37,9 @@ namespace Candidate_Service
             return iCandidateProfileRepo.RemoveCandidateProfile(id);
         }
 
-        public bool UpdateCandidateProfile(string id)
+        public bool UpdateCandidateProfile(CandidateProfile candidate)
         {
-            return iCandidateProfileRepo.UpdateCandidateProfile(id);
+            return iCandidateProfileRepo.UpdateCandidateProfile(candidate);
         }
     }
 }

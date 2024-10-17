@@ -21,6 +21,7 @@ namespace CandidateManagement_WPF_QuangHoa
     /// </summary>
     public partial class Candidate : Window
     {
+        private int? roleId = 0;
         private CandidateProfileService candidateService;
         private IJobPostingService jobPostingService;
 
@@ -31,8 +32,28 @@ namespace CandidateManagement_WPF_QuangHoa
             jobPostingService = new JobPostingService();
         }
 
+        public Candidate(int? roleId)
+        {
+            InitializeComponent();
+            candidateService = new CandidateProfileService();
+            jobPostingService = new JobPostingService();
+            this.roleId = roleId;
+
         
-      
+            switch (roleId)
+            {
+                case 1:
+                    break;
+                case 2:
+                    this.btnAdd.IsEnabled = false;
+                    break;
+                default:
+                    break;
+            }
+        }
+
+
+
 
         private void btnJobPosting_Click(object sender, RoutedEventArgs e)
         {
@@ -80,16 +101,32 @@ namespace CandidateManagement_WPF_QuangHoa
             }
         }
 
+        private bool updateCandidateProfile(string id)
+        {
+            CandidateProfile candidateProfile = candidateService.GetCandidateProfileById(id);
+            if (candidateProfile == null)
+            {
+                return false;
+            }
+            candidateProfile.Fullname = txt_FullName.Text;
+            candidateProfile.Birthday = DateTime.Parse(date_birthday.Text);
+            candidateProfile.ProfileUrl = txt_ProfileUrl.Text;
+            candidateProfile.PostingId = cbb_JobPosting.SelectedValue.ToString();
+            candidateProfile.ProfileShortDescription = txt_Description.Text;
+            return candidateService.UpdateCandidateProfile(candidateProfile);
+
+        }
         private void btnUpdate_Click(object sender, RoutedEventArgs e)
         {
-            if(txt_CandidateId.Text.Length > 0 && candidateService.UpdateCandidateProfile(txt_CandidateId.Text))
+            CandidateProfile candidate = new CandidateProfile();
+            if(txt_CandidateId.Text.Length > 0 && updateCandidateProfile(txt_CandidateId.Text))
             {
                 MessageBox.Show("Update successfull");
                 loadDataInit();
             }
             else
             {
-                MessageBox.Show("Delete failed");
+                MessageBox.Show("Update failed");
             }
         }
 
@@ -162,7 +199,11 @@ namespace CandidateManagement_WPF_QuangHoa
             CandidateProfile candidateProfile = candidateService.GetCandidateProfileById(id);
             if (candidateProfile != null)
             {
-                txt_CandidateId.Text = candidateProfile.CandidateId;
+                    txt_CandidateId.IsEnabled = false;
+                    txt_CandidateId.IsReadOnly = true;
+                    ForceCursor = true;
+                    txt_CandidateId.Cursor = Cursors.No;
+                    txt_CandidateId.Text = candidateProfile.CandidateId;
                 txt_FullName.Text = candidateProfile.Fullname;
                 date_birthday.Text = candidateProfile.Birthday.ToString();
                 txt_ProfileUrl.Text = candidateProfile.ProfileUrl;

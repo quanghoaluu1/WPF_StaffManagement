@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Candidate_BusinessObjects;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.Extensions.Configuration;
 
 namespace Candidate_DAO
 {
@@ -26,8 +27,18 @@ namespace Candidate_DAO
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Server=HOA-PC\\HOA;Database=CandidateManagement;Uid=sa;Pwd=12345;");
+                optionsBuilder.UseSqlServer(getConnectionString());
             }
+        }
+
+        private string getConnectionString()
+        {
+            IConfiguration configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", true, true).Build();
+            return configuration.GetConnectionString("DBConnect");
+
+
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -97,6 +108,7 @@ namespace Candidate_DAO
             });
 
             OnModelCreatingPartial(modelBuilder);
+
         }
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);

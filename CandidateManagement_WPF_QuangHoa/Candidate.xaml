@@ -34,7 +34,7 @@
         <Label Content="Description" HorizontalAlignment="Right" Margin="0,237,20,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Grid.Row="1" Grid.Column="1"/>
         <Label Content="Profile URL" HorizontalAlignment="Right" Margin="0,303,43,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Grid.Row="1" Width="119"/>
         <Label Content="Job Posting" HorizontalAlignment="Right" Margin="0,180,18,382" FontSize="20" FontWeight="Bold" Grid.Row="1" Grid.Column="1"/>
-        <TextBox x:Name="txt_CandidateId" HorizontalAlignment="Left" Margin="13,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="248" Height="27" Grid.Row="1" TextChanged="TextBox_TextChanged" Grid.Column="1"/>
+        <TextBox x:Name="txt_CandidateId" HorizontalAlignment="Left" Margin="13,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="248" Height="27" Grid.Row="1" IsEnabled="True" IsReadOnly="False" TextChanged="TextBox_TextChanged" Grid.Column="1" Cursor="Hand"/>
         <TextBox x:Name="txt_FullName" HorizontalAlignment="Left" Margin="15,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" Height="28" Grid.Row="1" TextChanged="txt_FullName_TextChanged" Grid.Column="1"/>
         <Label Content="Candidate Profile Management" HorizontalAlignment="Left" Margin="47,93,0,0" VerticalAlignment="Top" Height="80" Width="547" FontSize="36" FontWeight="Bold" Grid.Row="1" Grid.ColumnSpan="3" Grid.Column="1"/>
         <TextBox x:Name="txt_ProfileUrl" HorizontalAlignment="Left" Margin="10,313,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="251" Height="28" Grid.Row="1" TextChanged="txt_ProfileUrl_TextChanged" Grid.Column="1"/>

@@ -12,3 +12,4 @@ E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_BusinessObjects\obj\D
 E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_BusinessObjects\obj\Debug\net6.0\Candidate_BusinessObjects.pdb
 E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_BusinessObjects\obj\Debug\net6.0\Candidate_BusinessObjects.genruntimeconfig.cache
 E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_BusinessObjects\obj\Debug\net6.0\ref\Candidate_BusinessObjects.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\Candidate_BusinessObjects\obj\Debug\net6.0\Candidate_BusinessObjects.sourcelink.json

@@ -11,9 +11,9 @@ namespace Candidate_Repository
     {
         public List<CandidateProfile> GetCandidateProfilesList();
         public CandidateProfile GetCandidateProfileById(String id);
-        public bool AddCandidateProfile(CandidateProfile candidateProfile);
-        public bool RemoveCandidateProfile(String id);
-        public bool UpdateCandidateProfile(String id);
+        public void AddCandidateProfile(CandidateProfile candidateProfile);
+        public void RemoveCandidateProfile(String id);
+        public void UpdateCandidateProfile(CandidateProfile candidate);
 
     }
 }

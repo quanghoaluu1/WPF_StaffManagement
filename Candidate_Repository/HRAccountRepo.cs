@@ -10,8 +10,10 @@ namespace Candidate_Repository
 {
     public class HRAccountRepo : IHRAccountRepo
     {
+        //public Hraccount GetHraccountByEmail(string email) => HRAccountDAO.Instance.GetHraccountByEmail(email);
+
         public Hraccount GetHraccountByEmail(string email) => HRAccountDAO.Instance.GetHraccountByEmail(email);
-        
+
 
         public List<Hraccount> GetHraccountsList() => HRAccountDAO.Instance.GetHraccountsList();
         

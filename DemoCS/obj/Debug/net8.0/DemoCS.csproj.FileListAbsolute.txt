@@ -1,0 +1,15 @@
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\bin\Debug\net8.0\DemoCS.exe
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\bin\Debug\net8.0\DemoCS.deps.json
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\bin\Debug\net8.0\DemoCS.runtimeconfig.json
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\bin\Debug\net8.0\DemoCS.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\bin\Debug\net8.0\DemoCS.pdb
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\obj\Debug\net8.0\DemoCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\obj\Debug\net8.0\DemoCS.AssemblyInfoInputs.cache
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\obj\Debug\net8.0\DemoCS.AssemblyInfo.cs
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\obj\Debug\net8.0\DemoCS.csproj.CoreCompileInputs.cache
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\obj\Debug\net8.0\DemoCS.sourcelink.json
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\obj\Debug\net8.0\DemoCS.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\obj\Debug\net8.0\refint\DemoCS.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\obj\Debug\net8.0\DemoCS.pdb
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\obj\Debug\net8.0\DemoCS.genruntimeconfig.cache
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\DemoCS\obj\Debug\net8.0\ref\DemoCS.dll

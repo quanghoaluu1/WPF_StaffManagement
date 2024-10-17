@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_dao\\genericdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\genericdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_dao\\candidate_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidate_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidatemanagement_wpf_quanghoa\\candidate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|solutionrelative:candidatemanagement_wpf_quanghoa\\candidate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidatemanagement_wpf_quanghoa\\candidate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|solutionrelative:candidatemanagement_wpf_quanghoa\\candidate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidatemanagement_wpf_quanghoa\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|solutionrelative:candidatemanagement_wpf_quanghoa\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECE6DEFE-A4E3-44F2-B5EA-B73E182F7B75}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidatemanagement_wpf_quanghoa\\candidatemanagement_wpf_quanghoa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|solutionrelative:candidatemanagement_wpf_quanghoa\\candidatemanagement_wpf_quanghoa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCFA0B1-C683-4388-80CE-5E473DB00214}|DemoCS\\DemoCS.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\democs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCFA0B1-C683-4388-80CE-5E473DB00214}|DemoCS\\DemoCS.csproj|solutionrelative:democs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidatemanagement_wpf_quanghoa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|solutionrelative:candidatemanagement_wpf_quanghoa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36372266-F5BD-4775-A646-6D806F6D62E7}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidatemanagement_wpf_quanghoa\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|solutionrelative:candidatemanagement_wpf_quanghoa\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidatemanagement_wpf_quanghoa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|solutionrelative:candidatemanagement_wpf_quanghoa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|e:\\c#\\trialtest\\prn221pe_fa22_trialtest_quanghoa\\candidatemanagement_wpf_quanghoa\\candidate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1186632-1B05-41D5-9AB6-66CD6503E7BA}|CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj|solutionrelative:candidatemanagement_wpf_quanghoa\\candidate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +54,143 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "GenericDAO.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\GenericDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\GenericDAO.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\GenericDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\GenericDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:53:50.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Candidate.xaml.cs",
               "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\Candidate.xaml.cs",
               "RelativeDocumentMoniker": "CandidateManagement_WPF_QuangHoa\\Candidate.xaml.cs",
               "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\Candidate.xaml.cs",
               "RelativeToolTip": "CandidateManagement_WPF_QuangHoa\\Candidate.xaml.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFQAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAnwC8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T06:50:30.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CandidateProfileDAO.cs",
-              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateProfileDAO.cs",
-              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "RelativeToolTip": "Candidate_DAO\\CandidateProfileDAO.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAIAwwFcAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\DemoCS\\Program.cs",
+              "RelativeDocumentMoniker": "DemoCS\\Program.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\DemoCS\\Program.cs",
+              "RelativeToolTip": "DemoCS\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T01:02:02.795Z",
+              "WhenOpened": "2024-10-04T00:39:31.729Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateManagementContext.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\CandidateManagementContext.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateManagementContext.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\CandidateManagementContext.cs",
+              "RelativeToolTip": "Candidate_DAO\\CandidateManagementContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA3wCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T01:58:00.677Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CandidateProfileRepo.cs",
-              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\CandidateProfileRepo.cs",
-              "RelativeDocumentMoniker": "Candidate_Repository\\CandidateProfileRepo.cs",
-              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\CandidateProfileRepo.cs",
-              "RelativeToolTip": "Candidate_Repository\\CandidateProfileRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_WPF_QuangHoa\\LoginWindow.xaml.cs",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "CandidateManagement_WPF_QuangHoa\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAArwCQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T01:14:24.971Z",
+              "WhenOpened": "2024-09-27T01:09:12.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "CandidateManagement_WPF_QuangHoa",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj",
+              "RelativeDocumentMoniker": "CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj",
+              "RelativeToolTip": "CandidateManagement_WPF_QuangHoa\\CandidateManagement_WPF_QuangHoa.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T01:07:32.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Candidate_DAO.csproj",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj",
+              "RelativeDocumentMoniker": "Candidate_DAO\\Candidate_DAO.csproj",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj",
+              "RelativeToolTip": "Candidate_DAO\\Candidate_DAO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T01:57:58.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\appsettings.json",
+              "RelativeDocumentMoniker": "CandidateManagement_WPF_QuangHoa\\appsettings.json",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\appsettings.json",
+              "RelativeToolTip": "CandidateManagement_WPF_QuangHoa\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T14:53:41.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Candidate.xaml",
               "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\Candidate.xaml",
               "RelativeDocumentMoniker": "CandidateManagement_WPF_QuangHoa\\Candidate.xaml",
               "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\Candidate.xaml",
               "RelativeToolTip": "CandidateManagement_WPF_QuangHoa\\Candidate.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-23T06:46:15.124Z",
+              "WhenOpened": "2024-09-27T01:34:11.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\App.xaml",
+              "RelativeDocumentMoniker": "CandidateManagement_WPF_QuangHoa\\App.xaml",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\App.xaml",
+              "RelativeToolTip": "CandidateManagement_WPF_QuangHoa\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T01:20:45.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "CandidateManagement_WPF_QuangHoa\\LoginWindow.xaml",
+              "ToolTip": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_WPF_QuangHoa\\LoginWindow.xaml",
+              "RelativeToolTip": "CandidateManagement_WPF_QuangHoa\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T01:11:56.316Z",
               "EditorCaption": ""
             }
           ]
